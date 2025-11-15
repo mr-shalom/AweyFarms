@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "name": "Organic Maize Grain",
+    "category": "Grains",
+    "description": "Sun-dried organic maize grown without synthetic fertilizers.",
+    "price": 28.5,
+    "unit": "kg",
+    "stock": 250,
+    "image_url": "/images/maize.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Brown Sorghum",
+    "category": "Grains",
+    "description": "Rich, fiber-packed brown sorghum perfect for pap or malt drinks.",
+    "price": 30.0,
+    "unit": "kg",
+    "stock": 180,
+    "image_url": "/images/sorghum.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Millet Seed",
+    "category": "Grains",
+    "description": "Whole millet grains ideal for cereal, beer, and animal feed.",
+    "price": 26.0,
+    "unit": "kg",
+    "stock": 300,
+    "image_url": "/images/millet.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Local Rice (Stone Free)",
+    "category": "Grains",
+    "description": "Cleaned, parboiled long-grain local rice with a rich aroma.",
+    "price": 42.5,
+    "unit": "kg",
+    "stock": 500,
+    "image_url": "/images/rice.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Cassava Tubers",
+    "category": "Roots & Tubers",
+    "description": "Freshly harvested cassava ideal for garri and fufu production.",
+    "price": 15.0,
+    "unit": "kg",
+    "stock": 400,
+    "image_url": "/images/cassava.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Dried Cassava Chips",
+    "category": "Roots & Tubers",
+    "description": "Sun-dried cassava chips suitable for export or flour processing.",
+    "price": 18.0,
+    "unit": "kg",
+    "stock": 230,
+    "image_url": "/images/cassava-chips.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Sweet Potatoes (Red Skin)",
+    "category": "Roots & Tubers",
+    "description": "Naturally sweet, red-skinned potatoes rich in beta-carotene.",
+    "price": 22.0,
+    "unit": "kg",
+    "stock": 210,
+    "image_url": "/images/sweet-potato.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Plantain Flour",
+    "category": "Processed Foods",
+    "description": "Finely ground plantain flour ideal for healthy swallow meals.",
+    "price": 35.0,
+    "unit": "kg",
+    "stock": 120,
+    "image_url": "/images/plantain-flour.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Fonio Grain",
+    "category": "Grains",
+    "description": "Ancient African super grain known for its light texture and nutrition.",
+    "price": 55.0,
+    "unit": "kg",
+    "stock": 150,
+    "image_url": "/images/fonio.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Bambara Groundnuts",
+    "category": "Legumes",
+    "description": "Protein-rich African nuts great for stews and snacks.",
+    "price": 38.0,
+    "unit": "kg",
+    "stock": 200,
+    "image_url": "/images/bambara-nuts.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Fresh Okra Pods",
+    "category": "Vegetables",
+    "description": "Crisp green okra pods freshly harvested from organic farms.",
+    "price": 14.0,
+    "unit": "kg",
+    "stock": 180,
+    "image_url": "/images/okra.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Garden Egg (African Eggplant)",
+    "category": "Vegetables",
+    "description": "Locally grown garden eggs rich in fiber and antioxidants.",
+    "price": 12.0,
+    "unit": "kg",
+    "stock": 160,
+    "image_url": "/images/garden-egg.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Red Chili Peppers",
+    "category": "Vegetables",
+    "description": "Hot and flavorful peppers ideal for sauces and spice mixes.",
+    "price": 25.0,
+    "unit": "kg",
+    "stock": 120,
+    "image_url": "/images/chili-pepper.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Spinach Leaves",
+    "category": "Vegetables",
+    "description": "Fresh spinach leaves packed with vitamins and minerals.",
+    "price": 10.5,
+    "unit": "bunch",
+    "stock": 300,
+    "image_url": "/images/spinach.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Pumpkin Leaves (Ugu)",
+    "category": "Vegetables",
+    "description": "Tender pumpkin leaves commonly used in soups and stews.",
+    "price": 11.0,
+    "unit": "bunch",
+    "stock": 250,
+    "image_url": "/images/ugu.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Tomatoes (Organic Hybrid)",
+    "category": "Vegetables",
+    "description": "Plump red tomatoes cultivated using natural compost.",
+    "price": 20.0,
+    "unit": "kg",
+    "stock": 400,
+    "image_url": "/images/tomatoes.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Cabbage Heads",
+    "category": "Vegetables",
+    "description": "Firm, large cabbage heads grown in highland regions.",
+    "price": 18.5,
+    "unit": "piece",
+    "stock": 220,
+    "image_url": "/images/cabbage.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Onion Bulbs",
+    "category": "Vegetables",
+    "description": "Dry, red onion bulbs perfect for seasoning and stews.",
+    "price": 16.0,
+    "unit": "kg",
+    "stock": 350,
+    "image_url": "/images/onion.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Green Bell Peppers",
+    "category": "Vegetables",
+    "description": "Crisp and fresh peppers with a mild flavor.",
+    "price": 20.5,
+    "unit": "kg",
+    "stock": 170,
+    "image_url": "/images/green-pepper.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Bitter Leaf (Fresh)",
+    "category": "Vegetables",
+    "description": "Washed bitter leaves used in soups and herbal remedies.",
+    "price": 12.0,
+    "unit": "bunch",
+    "stock": 190,
+    "image_url": "/images/bitterleaf.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Pineapples (Smooth Cayenne)",
+    "category": "Fruits",
+    "description": "Sweet and juicy pineapples grown in tropical soil.",
+    "price": 35.0,
+    "unit": "piece",
+    "stock": 150,
+    "image_url": "/images/pineapple.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Ripe Bananas",
+    "category": "Fruits",
+    "description": "Naturally ripened bananas full of potassium and sweetness.",
+    "price": 10.0,
+    "unit": "bunch",
+    "stock": 300,
+    "image_url": "/images/banana.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Papaya (Pawpaw)",
+    "category": "Fruits",
+    "description": "Fresh, orange-fleshed papayas perfect for juice and salads.",
+    "price": 15.0,
+    "unit": "piece",
+    "stock": 180,
+    "image_url": "/images/papaya.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Mangoes (Kent Variety)",
+    "category": "Fruits",
+    "description": "Sweet Kent mangoes with smooth fiberless flesh.",
+    "price": 25.0,
+    "unit": "piece",
+    "stock": 220,
+    "image_url": "/images/mango.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Watermelons",
+    "category": "Fruits",
+    "description": "Large, juicy watermelons grown under full sun.",
+    "price": 30.0,
+    "unit": "piece",
+    "stock": 140,
+    "image_url": "/images/watermelon.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Avocado Pears",
+    "category": "Fruits",
+    "description": "Creamy avocados rich in healthy fats and vitamins.",
+    "price": 22.0,
+    "unit": "piece",
+    "stock": 200,
+    "image_url": "/images/avocado.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Sweet Oranges",
+    "category": "Fruits",
+    "description": "Citrus fruits bursting with juice and vitamin C.",
+    "price": 18.0,
+    "unit": "kg",
+    "stock": 250,
+    "image_url": "/images/orange.jpg"
+  },
+  {
+    "id": 28,
+    "name": "African Star Apple (Agbalumo)",
+    "category": "Fruits",
+    "description": "Tangy-sweet fruit loved across West Africa.",
+    "price": 12.0,
+    "unit": "piece",
+    "stock": 120,
+    "image_url": "/images/agbalumo.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Guavas",
+    "category": "Fruits",
+    "description": "Fragrant tropical guavas perfect for smoothies and jams.",
+    "price": 20.0,
+    "unit": "kg",
+    "stock": 150,
+    "image_url": "/images/guava.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Coconut Fruits",
+    "category": "Fruits",
+    "description": "Fresh coconuts for juice, oil, or cooking.",
+    "price": 15.0,
+    "unit": "piece",
+    "stock": 170,
+    "image_url": "/images/coconut.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Groundnuts (Raw)",
+    "category": "Legumes",
+    "description": "Unroasted groundnuts ready for cooking or processing.",
+    "price": 18.0,
+    "unit": "kg",
+    "stock": 260,
+    "image_url": "/images/groundnut.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Shea Nuts",
+    "category": "Nuts & Oils",
+    "description": "Natural shea nuts for butter and cosmetic production.",
+    "price": 40.0,
+    "unit": "kg",
+    "stock": 120,
+    "image_url": "/images/shea-nuts.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Palm Kernel Oil",
+    "category": "Nuts & Oils",
+    "description": "Locally processed oil with deep flavor and aroma.",
+    "price": 55.0,
+    "unit": "litre",
+    "stock": 100,
+    "image_url": "/images/palm-kernel-oil.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Coconut Oil (Cold Pressed)",
+    "category": "Nuts & Oils",
+    "description": "Cold-pressed virgin coconut oil ideal for cooking and skincare.",
+    "price": 65.0,
+    "unit": "litre",
+    "stock": 150,
+    "image_url": "/images/coconut-oil.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Cashew Nuts (Whole)",
+    "category": "Nuts & Oils",
+    "description": "Crisp and creamy cashew nuts processed under hygienic conditions.",
+    "price": 75.0,
+    "unit": "kg",
+    "stock": 110,
+    "image_url": "/images/cashew.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Soybeans",
+    "category": "Legumes",
+    "description": "Protein-rich soybeans used for milk, oil, and feed production.",
+    "price": 28.0,
+    "unit": "kg",
+    "stock": 220,
+    "image_url": "/images/soybeans.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Sesame Seeds",
+    "category": "Seeds",
+    "description": "High-quality sesame seeds ideal for oil extraction.",
+    "price": 48.0,
+    "unit": "kg",
+    "stock": 180,
+    "image_url": "/images/sesame.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Tiger Nuts (Dried)",
+    "category": "Tubers",
+    "description": "Nutty and sweet tiger nuts perfect for making kunu or snacks.",
+    "price": 35.0,
+    "unit": "kg",
+    "stock": 190,
+    "image_url": "/images/tiger-nuts.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Pure Forest Honey",
+    "category": "Processed Foods",
+    "description": "100% natural forest honey sourced from local beekeepers.",
+    "price": 60.0,
+    "unit": "liter",
+    "stock": 140,
+    "image_url": "/images/honey.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Dried Hibiscus Flowers (Zobo Leaves)",
+    "category": "Processed Foods",
+    "description": "Sun-dried hibiscus petals used for zobo and herbal teas.",
+    "price": 22.0,
+    "unit": "kg",
+    "stock": 160,
+    "image_url": "/images/hibiscus.jpg"
+  }
+]
