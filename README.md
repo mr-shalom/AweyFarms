@@ -1,4 +1,4 @@
-**Project Title:** AWEYFARMS
+**Project Title:** AweyFarms
 
 **Project Description:**
 This is a fullstack web application built with React and Express. It allows users to purchase fresh farm products from this farm web application, and provides an alternative to the physical markets such as doorstep delivery, online payment integration portal, recipe sharing, etc. The project is designed to be scalable, secure, and user-friendly.
