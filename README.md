@@ -32,7 +32,7 @@ root/
 
 **Setup Instructions**
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/mr-shalom/AweyFarms.git
 
 | Method | Endpoint             | Description      |
 | ------ | -------------------- | ---------------- |
